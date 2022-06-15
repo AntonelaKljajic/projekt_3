@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+
+.pozadina {
+	background-image: url("nebo.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+img {
+	
+	height: 200px; 
+}
+
+h1 {
+	text-align: center;
+	
+}
+
